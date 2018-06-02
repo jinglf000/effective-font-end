@@ -1,0 +1,28 @@
+{
+  "name": "effective-font-end",
+  "version": "1.0.0",
+  "description": "effective-font-end font-end note",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinglf000/effective-font-end.git"
+  },
+  "keywords": [
+    "font-end",
+    "note"
+  ],
+  "author": "jinglf000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinglf000/effective-font-end/issues"
+  },
+  "homepage": "https://github.com/jinglf000/effective-font-end#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
